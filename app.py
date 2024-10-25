@@ -17,14 +17,14 @@ def index():
             'name': 'Jesen Tanamas',
             'nim': '22.83.0920',
             'education': 'Amikom Yogyakarta',
-            'about': 'Mahasiswa keturunan China dari Bangka',
+            'about': 'Seorang Mahasiswa yang berasal dari Bangka Tengah',
             'image': 'profile2.jpg'
         },
         {
             'name': 'Bayu Rosdianko Kurniawan',
             'nim': '22.83.0945',
             'education': 'Amikom Yogyakarta',
-            'about': 'Ketua orma.',
+            'about': 'Mahasiswa tersesat yang berasal dari klaten.',
             'image': 'profile3.jpg'
         }
     ]
